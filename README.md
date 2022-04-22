@@ -1,4 +1,4 @@
-# SG-APP: Mobile health for POC testing with multiplexed immunoassay
+# SG-APP: Mobile health for point-of-care (POC) testing with multiplexed immunoassay
 
 This software project is/will be composed of the following 3 stages (S):
 
