@@ -31,5 +31,7 @@ Smartphone APP and software systems will rely on robust models to inform testing
 
     .
     ├── ml                    # Machine learning related files
+    │   ├── mlft_classify     # mLFT classifier with tensorflow
+    │   ├── object_detect     # mLFT detection with HOG and SVM    
     ├── app                   # Flutter code for APP (to be added)
     ├── services              # Cloud services (to be added)
